@@ -1,4 +1,8 @@
+# Vulnerability Relevant Mutation Testing Using CodeBERT Language Model
 
+This repo contains the source code and data set for the paper _Vulnerability Relevant Mutation Testing Using CodeBERT Language Model_, under review in the 34th IEEE International Symposium on Software Reliability Engineering (ISSRE 2023).
+
+---
 
 Please note that we employed [Vul4J](https://ieeexplore.ieee.org/document/9796326) for our study. Hence, the naming convention of the directories is in accordance, for which we provide the [mapping](directory_mappings.txt). 
 
